@@ -1,1 +1,6 @@
 test 2
+<<<<<<< HEAD
+=======
+
+(Accident changed)
+>>>>>>> 8456ee6384bac7fa500dae2cb22a52bda6100fd5
