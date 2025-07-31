@@ -2,5 +2,3 @@ Hello world
 
 feature1 (4:34 PM)
 feature1 (4:35 PM) v2
-
-wrong commit
